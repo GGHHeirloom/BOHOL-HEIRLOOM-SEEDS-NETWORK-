@@ -12,58 +12,23 @@
 
 <!-- ================= OVERVIEW SECTION ================= -->
 <section id="overview" style="margin-bottom: 40px;">
-    <div class="section-title-container">
-        <h2>Network Overview</h2>
-        <div class="line-divider"></div>
-    </div>
-    
-    <div style="max-width: 900px; margin: 0 auto; line-height: 1.8;">
-        <p style="font-size: 1.15rem; margin-bottom: 20px; color: var(--text-main);">
-            The <strong>Bohol Heirloom Seed Network (BHSN)</strong> is a grassroots, community-led initiative dedicated to the systematic identification, preservation, genetic stabilization, and ethical distribution of native, open-pollinated heirloom seeds across the province of Bohol.
-        </p>
-        <p style="font-size: 1.15rem; margin-bottom: 30px; color: var(--text-main);">
-            By countering industrial monoculture and protecting ancestral landraces, we actively secure agricultural biodiversity, foster robust climate resilience within regional soil ecosystems, and honor traditional Boholano farming heritage.
-        </p>
+ 
+The Bohol Heirloom Seed Network (BHSN) is a grassroots, community-led initiative dedicated to the systematic identification, preservation, genetic stabilization, and ethical distribution of native, open-pollinated heirloom seeds across the province of Bohol.
 
-        <blockquote style="background-color: #e9f5ed; border-left: 5px solid var(--forest-leaf); padding: 20px; border-radius: 0 8px 8px 0; margin-bottom: 40px; font-style: italic; font-weight: 500; color: var(--forest-dark);">
-            🧬 <strong>Our Philosophy:</strong> True conservation is active. We don’t just store seeds in a vault; we grow, adapt, and evolve them in the field to secure true localized food sovereignty and community autonomy.
-        </blockquote>
+By countering industrial monoculture and protecting ancestral landraces, we actively secure agricultural biodiversity, foster robust climate resilience within regional soil ecosystems, and honor traditional Boholano farming heritage.
 
-        <h3 style="color: var(--forest-dark); margin-bottom: 20px; font-size: 1.5rem; text-transform: uppercase; letter-spacing: 0.5px;">✨ Core Pillars & Focus Areas</h3>
-        
-        <ul style="list-style-type: none; padding-left: 0;">
-            <li style="margin-bottom: 15px; padding-left: 25px; position: relative;">
-                <span style="position: absolute; left: 0; color: var(--terracotta);">•</span>
-                <strong>Germplasm Collection & Exploration:</strong> Proactively scouting and mapping endangered regional varieties across Bohol's diverse microclimates to build a robust, living genetic library of ancestral food crops.
-            </li>
-            <li style="margin-bottom: 15px; padding-left: 25px; position: relative;">
-                <span style="position: absolute; left: 0; color: var(--terracotta);">•</span>
-                <strong>100% Native & Adaptive Selection:</strong> Cultivating and expanding strains meticulously acclimated over generations to Bohol’s distinct karst limestone soils and shifting monsoonal weather patterns.
-            </li>
-            <li style="margin-bottom: 15px; padding-left: 25px; position: relative;">
-                <span style="position: absolute; left: 0; color: var(--terracotta);">•</span>
-                <strong>Genetic Purity & Integrity:</strong> Strictly tracking, documenting, and safeguarding open-pollinated, non-hybridized, and completely GMO-free parent lines within our master registry.
-            </li>
-            <li style="margin-bottom: 15px; padding-left: 25px; position: relative;">
-                <span style="position: absolute; left: 0; color: var(--terracotta);">•</span>
-                <strong>Adaptive Hybridization:</strong> Engaging in controlled, strategic cross-breeding of traditional variants to build elite, multi-strain resilience—selections specifically engineered for high heat tolerance, natural pest barriers, and non-electric cultivation profiles.
-            </li>
-            <li style="margin-bottom: 15px; padding-left: 25px; position: relative;">
-                <span style="position: absolute; left: 0; color: var(--terracotta);">•</span>
-                <strong>Community Custodianship:</strong> Operating a decentralized, shared seed-saving bank where local smallholders, agrarian innovators, and home gardeners grow, multiply, swap, and return pure seed stocks back to the collective network.
-            </li>
-        </ul>
-    </div>
-</section>
+Our Philosophy: True conservation is active. We don’t just store seeds in a vault; we grow, adapt, and evolve them in the field to secure true localized food sovereignty and community autonomy.
+
 
 ---
 
 ## ✨ Core Pillars & Focus Areas
 
-*   **100% Native & Adaptive:** Cultivating strains meticulously acclimated over generations to Bohol’s unique limestone soils and monsoonal weather patterns.
+*   **100% Native & Adaptive Selection:** Cultivating strains meticulously acclimated over generations to Bohol’s unique limestone soils and monsoonal weather patterns.
 *   **Genetic Purity Protection:** Strictly safeguarding open-pollinated, non-hybridized, and completely GMO-free crops.
-*   **Community Custodianship:** Operating a shared seed-saving bank where smallholders and home gardeners grow, multiply, swap, and return seeds to the collective registry.
-
+*   **Community Custodianship:** Operating a decentralized, shared seed-saving bank where local smallholders, agrarian innovators, and home gardeners grow, multiply, swap, and return pure seed stocks back to the collective network.
+*   **Germplasm Collection & Exploration** Proactively scouting and mapping endangered regional varieties across Bohol's diverse microclimates to build a robust, living genetic library of ancestral food crops.
+*   **Adaptive Hybridization:** Engaging in controlled, strategic cross-breeding of traditional variants to build elite, multi-strain resilience—selections specifically engineered for high heat tolerance, natural pest barriers, and non-electric, stagnant bioponic systems.
 ---
 
 ## 🗃️ Featured Heirloom Strains (The Vault)
