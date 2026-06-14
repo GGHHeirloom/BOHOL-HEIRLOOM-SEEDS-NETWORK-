@@ -19,8 +19,24 @@ By countering industrial monoculture and protecting ancestral landraces, we acti
 
 Our Philosophy: True conservation is active. We don’t just store seeds in a vault; we grow, adapt, and evolve them in the field to secure true localized food sovereignty and community autonomy.
 
+## 🗺️ About Us 
+<!-- =================  About Us SECTION ================= -->
+<section id="About us" style="margin-bottom: 40px;">
+ 
+The Bohol Heirloom Seed Network (BHSN) is a flagship initiative of Green Gardens of Hope (GGH) Agriventures. We exist to reclaim, multiply, and protect the God-given gift of pure, unaltered seeds. Passed down from generation to generation, these heirloom varieties are living legacies. Our mission is to safeguard these genetics to restore natural abundance, defend farmer autonomy, and ensure our food remains true to how it was created.
 
----
+## 🗺️ Our History: The GGH Journey
+<!-- =================  Our History  SECTION ================= -->
+<section id="Our History" style="margin-bottom: 40px;">
+ 
+Founded in 2019, Green Gardens of Hope (GGH) began with a clear mission: to heal the soil, empower farmers, and bring agricultural hope to Bohol.
+
+We started in circular economy waste-management, converting organic bio-waste into rich soil amendments. However, we quickly realized that living soil requires pure genetics. Recognizing that industrial hybrids left farmers dependent on chemical inputs, GGH pivoted to secure seed sovereignty.
+
+Our deep field expertise led GGH to become the first institution to offer the official Vegetable Seed Production program under TESDA, serving as a vital industry expert contributor in shaping the national Competency Standards (CS).
+
+True seed sovereignty belongs to everyone. To build a decentralized movement, we extended our specialized Seed Keeper System beyond traditional farms—embedding living seed banks into local schools, rural communities, and even prison rehabilitation programs. By pairing ancient heirloom conservation with modern innovations like heat-tolerant hybridization and non-electric bioponics, GGH continues to pioneer a climate-resilient, self-reliant future.
+
 
 ## ✨ Core Pillars & Focus Areas
 
