@@ -35,8 +35,9 @@ Our network tracks, catalogs, and multiplies traditional cultivars. Below are ou
 | **Tubers & Roots** | **Ubi Kinampay** | 🚨 Extremely Rare | Jagna / Mabini | Deep violet flesh, highly aromatic, sacred cultural value. |
 | **Grains & Maize** | **Calape White Flint** | 🟢 Stable Supply | Calape | Rugged, pest-resistant corn traditionally milled into grits. |
 | **Vegetables** | **Boholano String Bean** | ⚠️ Endangered | Sierra Bullones | Exceptional heat-tolerance during severe dry seasons. |
-
----
+| **Vegetables** | **Orange Okra ** | climatized from Europe | Green Gardens of Hope GGH  | Exceptional heat-tolerance during severe dry seasons. |
+| **Vegetables** | **Black beauty eggplant ** | Climatized from Europe |GGH  | Exceptional heat-tolerance during severe dry seasons. |
+-
 
 ## 🚀 Getting Involved
 
